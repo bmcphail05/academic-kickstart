@@ -1,19 +1,22 @@
 ---
 title: Brian L. McPhail
 role: PhD Student in Sociology
-avatar_filename: kmcphail_072820684.jpg
+avatar_filename: ""
 organizations:
-  - name: Stanford University
+  - name: Purdue University
     url: ""
+  - name: Center on Religion and the Global East
 superuser: true
 authors:
   - admin
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Religion
+  - Health
+  - Family
+  - Religious Ecology
+  - East Asia
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,12 +32,12 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: PhD in Sociology
+      institution: Purdue University
+      year: ""
+    - course: MS in Sociology
+      institution: Purdue University
+      year: 2018
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
