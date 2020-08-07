@@ -32,15 +32,18 @@ social:
     link: https://github.com/gcushen
 education:
   courses:
-    - course: PhD in Sociology
+    - course: PhD in Sociology, (expected 2022)
       institution: Purdue University
-      year: ""
+      year: -3
     - course: MS in Sociology
       institution: Purdue University
       year: 2018
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MA in Theology & Crosscultural Studies, 2010/2013
+      institution: Fuller Theological Seminary
+      year: ""
+    - course: BA in Sociology/Psychology
+      institution: University of North Carolina at Chapel Hill
+      year: 2005
 email: ""
 user_groups:
   - Researchers
