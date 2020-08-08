@@ -1,16 +1,15 @@
 ---
 title: Brian L. McPhail
 role: PhD Student in Sociology
-avatar_filename: ""
+avatar_filename: "avatar.jpg"
 organizations:
   - name: Purdue University
-    url: ""
-  - name: Center on Religion and the Global East
+    url: "www.purdue.edu"
+  - name:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio:
 interests:
   - Religion
   - Health
@@ -20,21 +19,18 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: mail:bmcphail@purdue.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/bmcphail
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=kEFxOHwAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Sociology, (expected 2022)
       institution: Purdue University
-      year: -3
+      year:
     - course: MS in Sociology
       institution: Purdue University
       year: 2018
