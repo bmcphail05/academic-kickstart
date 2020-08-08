@@ -32,6 +32,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Brian_Mcphail
+  - icon: cv
+    icon_pack: ai
+    link: /files/bmcphail_cv.pdf
 
 education:
   courses:
