@@ -19,7 +19,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mail:bmcphail@purdue.edu
+    link: mailto:bmcphail@purdue.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/bmcphail
