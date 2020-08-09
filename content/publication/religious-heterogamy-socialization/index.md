@@ -30,11 +30,11 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: DOI
+   url: "https://www.mdpi.com/2077-1444/10/2/109"
+   icon_pack:
+   icon:
 
 url_pdf: "https://www.mdpi.com/2077-1444/10/2/109/pdf"
 url_code:
