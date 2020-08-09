@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
  name: DOI
-  url: https://doi.org/10.1111/jssr.12667
+  url: "https://doi.org/10.1111/jssr.12667"
    icon_pack:
    icon:
 
