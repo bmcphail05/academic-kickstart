@@ -1,9 +1,8 @@
 +++
-# A Featured Publications section created with the Featured Content widget.
-# This section displays publications from `content/publication/` which have
-# `featured = true` in their front matter.
+# A Works in Progress section created with the Pages widget.
+# This section displays recent blog posts from `content/publication/`.
 
-widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
@@ -18,18 +17,19 @@ subtitle = ""
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
 
+  # Choose how many pages you would like to offset by
+  offset = 0
+
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
-
-  # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
 
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "3"
     author = ""
+    exclude_featured = false
 
 [design]
   # Toggle between the various page layout types.
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
 
 [design.background]
   # Apply a background color, gradient, or image.
