@@ -15,7 +15,7 @@ weight = 90
 
 +++
 
-## Instructor
+## Graduate Instructor
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf)
@@ -27,7 +27,7 @@ weight = 90
 * Advanced Graduate Academic English: Oral Communication
 * Advanced Undergraduate English: Oral Communication
 
-## Teaching Assistant
+## Graduate Teaching Assistant
 [_Purdue University_](https://www.cla.purdue.edu/sociology/), Department of Sociology -- West Lafayette, IN
 
 * _Graduate Courses_
@@ -37,6 +37,7 @@ weight = 90
 * _Undergraduate Courses_
   * SOC100 Introduction to Sociology
   * SOC220 Social Problems
+  * SOC382 Introduction to Statistics for Sociology
 
 [_Fuller Theological Seminary_](https://www.fuller.edu/), School of Theology -- Pasadena, CA
 
