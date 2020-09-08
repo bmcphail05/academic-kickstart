@@ -16,6 +16,8 @@ interests:
   - Family
   - Religious Ecology
   - East Asia
+  - Quantitative Research Methods
+
 social:
   - icon: envelope
     icon_pack: fas
