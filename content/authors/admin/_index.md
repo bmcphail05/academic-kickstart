@@ -58,6 +58,8 @@ user_groups:
 
 I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
 
+My dissertation examines how the religious ecology of local social environments in mainland China affect the health and mortality of the people in them.
+
 I am currently a graduate student instructor in the [Purdue Sociology Department](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and the Global East](http://www.globaleast.org/), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
 Click here for [**my CV**](files/bmcphail_cv.pdf).
