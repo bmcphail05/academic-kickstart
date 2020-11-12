@@ -58,7 +58,7 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD student in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
+I am a PhD candidate in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, religious ecology, and East Asia.
 
 My dissertation examines the ecological effects of religion on population health and mortality in mainland China.
 
