@@ -66,3 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+McPhail, Brian L., “Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality? Differences by Race.”
+
+Yang, Fenggang & Brian L. McPhail, “Measuring Multiple Religious Belief, Behavior, and Belonging in East Asian Societies and Cultures”
+
+Yang, Fenggang & Brian L. McPhail, “Is there a Secularization Trend in the Global East?”
