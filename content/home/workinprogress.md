@@ -3,8 +3,8 @@
 # This section displays recent posts from `content/publication/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "Work in Progress"
@@ -66,9 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-McPhail, Brian L., “Does Religion Buffer the Effect of Childhood Abuse on Adult Sleep Quality? Differences by Race.”
-
-Yang, Fenggang & Brian L. McPhail, “Measuring Multiple Religious Belief, Behavior, and Belonging in East Asian Societies and Cultures”
-
-Yang, Fenggang & Brian L. McPhail, “Is there a Secularization Trend in the Global East?”
