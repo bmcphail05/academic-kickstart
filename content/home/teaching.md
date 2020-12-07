@@ -15,16 +15,13 @@ weight = 90
 
 +++
 
-# Graduate Instructor
+## Graduate Instructor
 * [SOC100 Introduction to Sociology](files/SOC100_syllabus_SU2019.pdf)
 * [SOC382 Introduction to Statistics in Sociology](files/SOC382_syllabus_SU2020.pdf)
 
 ## Graduate Teaching Assistant
-* _Graduate Courses_
-  * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda)
-  * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html)
-
-* _Undergraduate Courses_
-  * SOC100 Introduction to Sociology
-  * SOC220 Social Problems
-  * SOC382 Introduction to Statistics for Sociology
+  * [SOC681 Categorical Data Analysis](https://www.trentonmize.com/teaching/cda) (graduate)
+  * [SOC680 Advanced Social Research Methods](https://cla.purdue.edu/academic/sociology/graduate/phd/courses.html) (graduate)
+  * SOC100 Introduction to Sociology (undergraduate)
+  * SOC220 Social Problems (undergraduate)
+  * SOC382 Introduction to Statistics for Sociology (undergraduate)
