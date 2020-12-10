@@ -1,6 +1,6 @@
 ---
 # Bl
-  widget: "CVButton"
+  widget: blank
   headless: true
   active: true
   weight: 20
