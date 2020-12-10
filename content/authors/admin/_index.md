@@ -59,9 +59,4 @@ I am a PhD candidate in sociology at Purdue University in West Lafayette, Indian
 
 I am currently a graduate student instructor in the Purdue University [Department of Sociology ](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and the Global East](http://www.globaleast.org/), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
-{{< cta cta_text="Download my CV" cta_link="/files/bmcphail_cv.pdf" cta_new_tab="true" >}}
-
-{{% button href="https://getgrav.org/" icon="fas fa-download" %}}Get Grav with icon{{% /button %}}
-
-
-<i class="fas fa-band-aid"></i>
+{{< cta icon="fas fa-download" cta_text="Download my CV" cta_link="/files/bmcphail_cv.pdf" cta_new_tab="true" >}}
