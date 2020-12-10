@@ -2,7 +2,7 @@
 # Bl
   widget: blank
   headless: true
-  active: true
+  active: false
   weight: 20
   design:
   # Choose how many columns the section has. Valid values: 1 or 2.
