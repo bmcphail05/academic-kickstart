@@ -15,6 +15,10 @@
     text-transform: uppercase;
 }
 
+.navbar {
+  box-shadow: none
+}
+
 .navbar-nav {
   font-size: 19.5px
 }
@@ -34,8 +38,13 @@ body {
 }
 
 .home-section {
-        padding: 75px 0 75px 0;
-    }
+  padding: 75px 0 75px 0;
+}
+
+.home-section:first-of-type {
+  padding-top: 75px;
+}
+
 
 footer{
   margin: 0rem 0 0;
