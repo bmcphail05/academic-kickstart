@@ -1,4 +1,4 @@
-module my-site
+module github/bmcphail05/academic-kickstart
 
 go 1.15
 
