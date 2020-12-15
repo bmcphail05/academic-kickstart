@@ -55,7 +55,7 @@ user_groups:
   - Visitors
 ---
 
-I am a PhD candidate in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, and East Asia. My [dissertation]({{< ref "/project/religious-ecology-china/index.md" >}}) examines the ecological effects of religion on population health and mortality in mainland China.
+Hi! I am a PhD candidate in sociology at Purdue University in West Lafayette, Indiana. My research interests include religion, family, health, and East Asia. My [dissertation]({{< ref "/project/religious-ecology-china/index.md" >}}) examines the ecological effects of religion on population health and mortality in mainland China.
 
 I am currently a graduate student instructor in the Purdue University [Department of Sociology ](https://www.cla.purdue.edu/sociology/), a research assistant at the [Center on Religion and the Global East](http://www.globaleast.org/), and an editorial assistant for the [*Review of Religion and Chinese Society*](http://booksandjournals.brillonline.com/content/journals/22143955).
 
