@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Measuring Religious Change in the Global East"
-summary: ""
+summary: "This one-year project aims to develop survey questions to accurately measure religiosity in the Global East. It will take a bottom-up approach by adopting survey questions locally developed in various East Asian societies, construct a survey questionnaire of religion tailored to the Global East, translate it into multiple languages (Chinese, Japanese, Korean, Vietnamese, and English), and test the survey among international students at a university in the US."
 authors: []
 tags: []
 categories: []
@@ -19,7 +19,7 @@ external_link: "https://www.globaleast.org/project/measuring-religious-change-in
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
