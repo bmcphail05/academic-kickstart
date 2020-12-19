@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Ecological Effects of Religion on Health and Mortality in China   "
+title: "The Ecological Effects of Religion on Health and Mortality in China (Dissertation)"
 summary: "Does the religious environment affect the physical health and mortality of China's rapidly aging population? Using geographic data of religious sites in China merged with official census reports and a longitudinal survey of older adults, this study applies statistical methods for analyzing spatial and multi-level data to identify patterns in self-rated health, chronic illness, functional limitations, and mortality associated with the religious composition of local Chinese areas."
 authors: [Brian L. McPhail]
 tags: []
@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+**Dissertation Advisors**: [Fenggang Yang](https://cla.purdue.edu/directory/profiles/fenggang-yang.html) (Chair), [Christopher G. Ellison](https://www.uthscsa.edu/academics/biomedical-sciences/faculty/profile/64891/Ellison%2C-Christopher), [Daniel V.A. Olson](https://cla.purdue.edu/facultystaff/profiles/promoted/promotions-15/Olson._Dan.html), and [Shawn Bauldry](https://www.cla.purdue.edu/facultystaff/profiles/new/newfaculty-16/Bauldry._Shawn.html)
 
 In recent decades, public health research has discovered that the places where people live, work, and play matter more for their health than their genes and biology. Prior social epidemiological studies, however, neglect a key aspect of local areas: the religious environment. Although religion is a profoundly social phenomenon that shapes the values, norms, and behaviors of both individuals and communities, most health research today reduces religion to an individual-level attribute. Scholars are only beginning to recognize that the demographic presence and socio-cultural influence of religion(s) in local geographic areas affect population health and mortality in the U.S., and we know little about this topic in other social, political, and cultural contexts.
 
