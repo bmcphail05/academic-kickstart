@@ -1,15 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Measuring Religious Change Global East"
+title: "Measuring Religious Change in the Global East"
 summary: ""
 authors: []
 tags: []
 categories: []
 date: 2020-12-19T12:59:43-05:00
 
+weight: 2
+
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.globaleast.org/project/measuring-religious-change-in-the-global-east/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
