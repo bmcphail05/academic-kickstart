@@ -17,7 +17,7 @@ external_link: ""
 image:
   caption: "All-Cause Crude Mortality Rates in Chinese Counties, 2000"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -41,6 +41,8 @@ slides: ""
 ---
 
 **Dissertation Advisors**: [Fenggang Yang](https://cla.purdue.edu/directory/profiles/fenggang-yang.html) (Chair), [Christopher G. Ellison](https://www.uthscsa.edu/academics/biomedical-sciences/faculty/profile/64891/Ellison%2C-Christopher), [Daniel V.A. Olson](https://cla.purdue.edu/facultystaff/profiles/promoted/promotions-15/Olson._Dan.html), and [Shawn Bauldry](https://www.cla.purdue.edu/facultystaff/profiles/new/newfaculty-16/Bauldry._Shawn.html)
+
+{{< figure src="featured.png" title="All-Cause Crude Mortality Rates in Chinese Counties, 2000">}}
 
 In recent decades, public health research has discovered that the places where people live, work, and play matter more for their health than their genes and biology. Prior social epidemiological studies, however, neglect a key aspect of local areas: the religious environment. Although religion is a profoundly social phenomenon that shapes the values, norms, and behaviors of both individuals and communities, most health research today reduces religion to an individual-level attribute. Scholars are only beginning to recognize that the demographic presence and socio-cultural influence of religion(s) in local geographic areas affect population health and mortality in the U.S., and we know little about this topic in other social, political, and cultural contexts.
 
