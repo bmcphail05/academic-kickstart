@@ -35,12 +35,10 @@ links:
    url: "https://doi.org/10.1111/jssr.12667"
    icon_pack:
    icon:
-
-links:
-- name: Preprint
-    url:
-    icon_pack:
-    icon:
+ - name: Preprint
+   url:
+   icon_pack:
+   icon:
 
 url_pdf:
 url_code:
