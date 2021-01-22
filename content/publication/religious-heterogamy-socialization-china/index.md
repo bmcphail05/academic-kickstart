@@ -36,7 +36,7 @@ links:
    icon_pack:
    icon:
  - name: Preprint
-   url:
+   url: "https://www.bmcphail.com/publication/religious-heterogamy-socialization-china/McPhailYang_2020_JSSR_ReligiousHeterogamyinChina_preprint.pdf"
    icon_pack:
    icon:
 
