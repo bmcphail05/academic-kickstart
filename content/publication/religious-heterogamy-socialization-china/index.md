@@ -36,6 +36,7 @@ links:
    icon_pack:
    icon:
 
+links:
 - name: Preprint
     url:
     icon_pack:
