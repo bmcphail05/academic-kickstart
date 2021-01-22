@@ -35,9 +35,8 @@ links:
    url: "https://doi.org/10.1111/jssr.12667"
    icon_pack:
    icon:
-
 - name: Preprint
-    url: "McPhailYang_2020_JSSR_ReligiousHeterogamyinChina_preprint.pdf"
+    url: "/McPhailYang_2020_JSSR_ReligiousHeterogamyinChina_preprint.pdf"
     icon_pack:
     icon:
 
