@@ -36,11 +36,10 @@ links:
    icon_pack:
    icon:
 
-links:
-  - name: Preprint
-  url: "/McPhailYang_2020_JSSR_ReligiousHeterogamyinChina_preprint.pdf"
-  icon_pack:
-  icon:
+- name: Preprint
+    url: "McPhailYang_2020_JSSR_ReligiousHeterogamyinChina_preprint.pdf"
+    icon_pack:
+    icon:
 
 url_pdf:
 url_code:
