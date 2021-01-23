@@ -4,7 +4,7 @@
 title: "Religious Heterogamy and the Intergenerational Transmission of Religion: A Cross-National Analysis"
 authors: ["Brian L. McPhail"]
 date: 2019-08-08T21:58:59-04:00
-doi: ""
+doi: "https://doi.org/10.3390/rel10020109"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-08-08T21:58:59-04:00
@@ -30,13 +30,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
- - name: DOI
-   url: "https://www.mdpi.com/2077-1444/10/2/109"
-   icon_pack:
-   icon:
+#links:
+ #- name:
+  # url:
+   #icon_pack:
+   #icon:
 
-url_pdf: "https://www.mdpi.com/2077-1444/10/2/109/pdf"
+url_pdf: "https://doi.org/10.3390/rel10020109"
 url_code:
 url_dataset: "https://dbk.gesis.org/dbksearch/sdesc2.asp?no=4950&search=issp%202008&search2=&field=all&field2=&DB=e&tab=0&notabs=&nf=1&af=&ll=10"
 url_poster:
