@@ -4,7 +4,7 @@
 title: "Religious Heterogamy and the Intergenerational Transmission of Religion in China"
 authors: [Brian L. McPhail, Fenggang Yang]
 date: 2020-08-09T13:22:10-04:00
-doi: "https://onlinelibrary.wiley.com/doi/10.1111/jssr.12667"
+doi: "10.1111/jssr.12667"
 
 # Schedule page publish date (NOT publication's date).
 publishDate:
