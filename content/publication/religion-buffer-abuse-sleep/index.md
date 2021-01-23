@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "This study examines the potential of religious involvement to buffer the deleterious effects of childhood abuse on adult sleep quality and whether the buffering effect of religion varies by race. Using cross-sectional data from the Midlife in the United States Study (MIDUS) (n = 1,767), I estimated logistic regression models with interaction terms to test whether four measures of religious involvement–religious attendance, private prayer, religious social support, and religious coping–reduce the accumulated impact of emotional, physical, and severe physical childhood abuse on chronic sleep problems in adulthood. Findings indicate that Black adults were significantly more likely than White adults to have chronic sleep problems. The effect of childhood abuse on sleep quality, however, does not vary by race. Religious attendance and religious social support buffered the effect of having all three types of childhood abuse on the probability of having chronic sleep problems but only for Black adults. Private prayer and religious coping did not reduce associations between childhood abuse and chronic sleep problems in adulthood for either Black or White adults. These findings support assertions that religious involvement and the psychosocial resources they provide can protect against the later life health consequences of childhood adversity."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -30,15 +30,13 @@ featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+links:
+ - name: Preprint
+   url: "https://www.bmcphail.com/publication/publication/religion-buffer-abuse-sleep/McPhail_ReligionBufferAbuseSleep_preprint.pdf"
 
 url_pdf:
 url_code:
-url_dataset:
+url_dataset: "https://www.icpsr.umich.edu/web/NACDA/series/203"
 url_poster:
 url_project:
 url_slides:
