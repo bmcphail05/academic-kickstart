@@ -32,7 +32,7 @@ featured: false
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Preprint
-   url: "https://www.bmcphail.com/publication/publication/religion-buffer-abuse-sleep/McPhail_ReligionBufferAbuseSleep_preprint.pdf"
+   url: "https://www.bmcphail.com/publication/religion-buffer-abuse-sleep/McPhail_ReligionBufferAbuseSleep_preprint.pdf"
 
 url_pdf:
 url_code:
