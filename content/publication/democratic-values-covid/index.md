@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Democratic Values and Trust in Government among International Students from Asia during the COVID-19 Pandemic"
-authors: Fenggang Yang [Brian L. McPhail]
+authors: [Fenggang Yang, Brian L. McPhail]
 date: 2021-04-07T19:42:24-05:00
 doi: ""
 
