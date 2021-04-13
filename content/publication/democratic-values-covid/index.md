@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Democratic Values and Trust in Government among International Students from Asia during the COVID-19 Pandemic"
-authors: [Fenggang Yang] [Brian L. McPhail]
+authors: Fenggang Yang [Brian L. McPhail]
 date: 2021-04-07T19:42:24-05:00
 doi: ""
 
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Under Review"
 publication_short: ""
 
-abstract: "Based on an analysis of a survey of international students in the United States conducted in mid-April 2020, this study finds that greater support for democratic values may appear to lead to more critical evaluations of government’s handling of the COVID -19 pandemic. Actually, ideological congruence is in effect: people with higher democratic values in less democratic societies tend to be more critical of their government’s response measures, whereas people with higher democratic values in more democratic societies tend to be more approving of their government’s response measures. "
+abstract: "Based on an analysis of a survey of international students in the United States conducted in mid-April 2020, this study finds that greater support for democratic values may appear to lead to more critical evaluations of government’s handling of the COVID -19 pandemic. Actually, ideological congruence is in effect: people with higher democratic values in less democratic societies tend to be more critical of their government’s response measures, whereas people with higher democratic values in more democratic societies tend to be more approving of their government’s response measures."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -35,7 +35,7 @@ links:
    url:
 url_pdf:
 url_code:
-url_dataset: 
+url_dataset:
 url_poster:
 url_project:
 url_slides:
