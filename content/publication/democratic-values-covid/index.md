@@ -31,8 +31,6 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
- - name:
-   url:
 url_pdf:
 url_code:
 url_dataset:
