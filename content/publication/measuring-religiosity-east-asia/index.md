@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Democratic Values and Trust in Government among International Students from Asia during the COVID-19 Pandemic"
+title: "Measuring Religiosity of East Asians: Multiple Religious Belonging, Believing, and Practicing"
 authors: [Fenggang Yang, Brian L. McPhail]
-date: 2021-04-07T19:42:24-05:00
+date: 2022-04-07T19:42:24-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-07T19:42:24-05:00
+publishDate: 2022-04-07T19:42:24-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Under Review"
 publication_short: ""
 
-abstract: "Based on an analysis of a survey of international students in the United States conducted in mid-April 2020, this study finds that greater support for democratic values may appear to lead to more critical evaluations of government’s handling of the COVID -19 pandemic. Actually, ideological congruence is in effect: people with higher democratic values in less democratic societies tend to be more critical of their government’s response measures, whereas people with higher democratic values in more democratic societies tend to be more approving of their government’s response measures."
+abstract: "Social surveys normally assume that respondents adhere to a single religious faith in belonging, believing, and practicing congruently. Some surveys even take religious preference or identity as the single measure of religiosity and examine its relationship with other variables. The customarily used survey items, however, fail to capture the non-exclusive and hybrid religiosity, which is arguably the traditional and normal pattern in East Asia while becoming increasingly common in the West. We have developed a new set of survey questions that allow respondents to choose identification, practice, and belief in multiple religions, and conducted a survey among international students from East Asia at an American university. The findings show that multiple religious belonging, believing and practicing are quite common, the level of believing and participating in religious services and rituals varies substantially, and no confession-based single measure of religious identity or practice is sufficient for measuring religiosity. We recommend this set of improved measures of religiosity be adopted in future surveys in East Asia and probably in the West as well."
 
 # Summary. An optional shortened abstract.
 summary: ""
