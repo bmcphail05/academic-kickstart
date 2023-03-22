@@ -30,7 +30,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://hammer.purdue.edu/ndownloader/files/34877937"
 url_slides: ""
 url_video: ""
 
