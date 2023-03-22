@@ -7,7 +7,7 @@ date: 2022-04-07T19:42:24-05:00
 doi: "10.1111/jssr.12827"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-04-07T19:42:24-05:00
+publishDate: 
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-url_pdf:
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
