@@ -22,12 +22,11 @@ image:
   preview_only: true
 
 # Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: 
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+#  Uncomment and edit lines below to show custom links.
+ links:
+ - name: Link
+   url: "https://hammer.purdue.edu/articles/thesis/The_Ecological_Effects_of_Religion_on_Health_and_Mortality_in_China/19638693/1"
+
 
 url_code: ""
 url_pdf: "https://hammer.purdue.edu/ndownloader/files/34877937"
