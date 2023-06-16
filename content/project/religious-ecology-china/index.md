@@ -11,7 +11,7 @@ date: 2020-12-03T22:05:00-05:00
 weight: 1
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://hammer.purdue.edu/articles/thesis/The_Ecological_Effects_of_Religion_on_Health_and_Mortality_in_China/19638693/1"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
