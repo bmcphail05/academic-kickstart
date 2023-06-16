@@ -3,7 +3,7 @@
 
 title: "Physicians Disclosing Religion in Online Biographies: Patient Perceptions and Decision-Making in the United States"
 authors: [Evan K. Perrault, Brian L. McPhail]
-date: 2022-04-07T19:42:24-05:00
+date: 2023-06-06T19:42:24-05:00
 doi: "10.1007/s10943-023-01836-1"
 
 # Schedule page publish date (NOT publication's date).
