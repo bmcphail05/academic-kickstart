@@ -23,9 +23,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+ - name: Link
+   url: https://www.globaleast.org/project/measuring-religious-change-in-the-global-east/
 #   icon_pack: fab
 #   icon: twitter
 
