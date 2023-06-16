@@ -23,9 +23,9 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
+links:
+ - name: Link
+   url: https://hammer.purdue.edu/articles/thesis/The_Ecological_Effects_of_Religion_on_Health_and_Mortality_in_China/19638693/1
 #   icon_pack: fab
 #   icon: twitter
 
