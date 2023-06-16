@@ -3,8 +3,8 @@ title: Brian L. McPhail
 role: PhD in Sociology
 avatar_filename: "avatar.jpg"
 organizations:
-  - name: Purdue University
-    url: "www.purdue.edu"
+  - name:
+    url:
   - name:
 superuser: true
 authors:
@@ -30,9 +30,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=kEFxOHwAAAAJ&hl=en
-  - icon: researchgate
-    icon_pack: ai
-    link: https://www.researchgate.net/profile/Brian_Mcphail
+
 
 
 education:
